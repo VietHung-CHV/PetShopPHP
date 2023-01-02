@@ -1,6 +1,6 @@
 <?php
 include 'config.php';
-
+//sads
 $db = new Database();
 //$brand = $db->escapeString($_GET['brand']);
 $data = $_GET['brand'];
